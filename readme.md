@@ -8,6 +8,7 @@ This is my try at training a CNN Model based on the [EMNIST (Extented MNIST) Dat
 
 ## Use / Download:
 Just save the raw `emnist_cnn.onnx` file and load that and use for inference
+[Or click here to download it](https://raw.githubusercontent.com/leocb/EMNIST-CNN-Trained-onnx-model/refs/heads/main/emnist_cnn.onnx)
 
 ## Model details:
 - Input: 28x28x1 grayscale image (pixel values normalized to [0,1])
